@@ -1,0 +1,9 @@
+{
+  "project": "quotes",
+  "port": 1100,
+  "container": "webtop1100",
+  "created": "2025-08-24T14:12:00-05:00",
+  "sandbox_home": "/home/jmcopp/Documents/sandbox",
+  "github_repo": "quotes",
+  "container_src": "/config/src"
+}
